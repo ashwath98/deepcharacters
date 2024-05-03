@@ -1,0 +1,26 @@
+sequence                     = Oleks
+basePath                     = /CT/ashwath2/static00/DatasetRelease/Oleks/
+outputPath                   = /CT/ashwath/work/DDC_DATA/Oleks/results_full_new_data/
+cameraPath                   = /CT/ashwath2/static00/DatasetRelease/Calibrations/Oleks/cameras_corrected.calibration
+characterPath                = /CT/ashwath2/static00/DatasetRelease/Oleks/actorblender.character
+meshPath                     = /CT/ashwath2/static00/DatasetRelease/Oleks/actor.obj
+graphPath                    = /CT/ashwath2/static00/DatasetRelease/Oleks/actorSimplified.obj
+skeletonPath                 = /CT/ashwath2/static00/DatasetRelease/Oleks/actor.skeleton
+imagesHighRes                = /scratch/inf0/user/asshetty/dummy_data/Oleks/training/images/
+imagesPath                   = /scratch/inf0/user/asshetty/dummy_data/Oleks/training/images/
+fgPath                       = /scratch/inf0/user/asshetty/dummy_data/Oleks/training/foregroundSegmentation/
+tfRecords                    = /CT/ashwath2/static00/DatasetRelease/Oleks/training/test_0_200.tfrecord
+mesh                         = /CT/ashwath/work/DDC_DATA/dummy_data/Oleks/training/deltanet_pcs
+partialtexPath               = /CT/ashwath/work/DDC_DATA/Oleks/partial_textures_new_tex_4k/images2/
+cameraEncoding               = texel
+renderResolutionU            = 1028
+renderResolutionV            = 752
+dynamicTexRes                = 1024
+weights                      = /CT/ashwath/work/DDC_DATA/Oleks/results_full_egc/tensorboardLogDeepDynamicCharacters/786x793x795x797x956/snapshot_iter_53047/
+numTrainCameras              = 1
+egNetInit                    = zero
+deltaNetInit                 = zero
+
+activeCamera                 = 62
+dynamicTexRes                = 1024
+shadingMode                  = shadeless

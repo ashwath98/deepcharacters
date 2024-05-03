@@ -1,0 +1,1 @@
+cmake -T version=14.28.29910 -G "Visual Studio 16 2019" -H. -B..\build\Win64
