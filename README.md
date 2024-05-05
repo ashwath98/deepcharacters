@@ -95,6 +95,9 @@ If you are not using slurm, you can just run the code on your machine without lo
 For running a project please enter the [Projects](Projects) directory and follow the instructions.
 **Note:** Make sure that you activate your environment *before* trying to run one of the python scripts.
 
+## License ##
+Both the source code and our data are under the terms of the [Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) license](https://creativecommons.org/licenses/by-nc/4.0/legalcode).
+This project is only for research or education purposes, and not freely available for commercial use or redistribution.
 ## Citation ##
 ```python
 

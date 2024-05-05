@@ -1,5 +1,4 @@
 # GVV-Differentiable-CUDA-Renderer
-<img src="readmeImages/cuda_renderer.png" border="0" width="150" class="center">
 
 This is a simple and efficient differentiable rasterization-based renderer which has been used in several [GVV publications](https://gvv.mpi-inf.mpg.de/GVV_Projects.html). The implementation is free of most third-party libraries such as OpenGL. The core implementation is in CUDA and C++. We use the layer as a custom Tensorflow op.  
 
