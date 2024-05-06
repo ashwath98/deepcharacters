@@ -6,14 +6,14 @@ CVPR, 2024
 
 [Ashwath Shetty](https://ashwath98.github.io/)<sup>1,2</sup>,
  [Marc Habermann](https://people.mpi-inf.mpg.de/~mhaberma/)<sup>1,3</sup>,
- [Guoxin Sun](https://people.mpi-inf.mpg.de/~gsun/)<sup>1</sup>,
+ [Guoxing Sun](https://people.mpi-inf.mpg.de/~gsun/)<sup>1</sup>,
  [Diogo Luvizon](https://people.mpi-inf.mpg.de/~dluvizon/)<sup>1</sup>,
  [Vladislav Golyanik](https://people.mpi-inf.mpg.de/~golyanik/)<sup>1,3</sup>,
 and 
  [Christian Theobalt](https://people.mpi-inf.mpg.de/~theobalt/)<sup>1,3</sup>
  
  
- <sup>1</sup>Max Planck Institute for Informatics,Saarland Informatics Campus , <sup>2</sup>Saarland University<sup>3</sup>Saarbrücken Research Center for Visual Computing, Interaction and AI
+ <sup>1</sup>Max Planck Institute for Informatics,Saarland Informatics Campus , <sup>2</sup>Saarland University , <sup>3</sup>Saarbrücken Research Center for Visual Computing, Interaction and AI
  
 ![](readmeImages/overview.gif)
 
