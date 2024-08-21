@@ -101,13 +101,12 @@ This project is only for research or education purposes, and not freely availabl
 ## Citation ##
 ```python
 
-@misc{shetty2023holoported,
-      title={Holoported Characters: Real-time Free-viewpoint Rendering of Humans from Sparse RGB Cameras}, 
-      author={Ashwath Shetty and Marc Habermann and Guoxing Sun and Diogo Luvizon and Vladislav Golyanik and Christian Theobalt},
-      year={2023},
-      eprint={2312.07423},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
-
-}
+ @InProceedings{Shetty_2024_CVPR,
+author    = {Shetty, Ashwath and Habermann, Marc and Sun, Guoxing and Luvizon, Diogo and Golyanik, Vladislav and Theobalt, Christian},
+title     = {Holoported Characters: Real-time Free-viewpoint Rendering of Humans from Sparse RGB Cameras},
+booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+month     = {June},
+year      = {2024},
+pages     = {1206-1215}
+	}
 ```
